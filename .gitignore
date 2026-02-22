@@ -1,0 +1,12 @@
+# Ignore all executable files
+*.exe
+
+# Ignore the entire testing folder
+testing/
+
+# Optional: ignore build folders
+build/
+bin/
+
+# Optional: ignore OS files (macOS)
+.DS_Store
