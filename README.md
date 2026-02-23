@@ -14,3 +14,5 @@ kids have priority from the leftest which is lowest to righest which is highest 
 when it choose the highest child priority and its wrong then it lose its spot and goes left then it tryies untill it gets to the closest and if not it chooses the closest value
 by doing value of already listed segments - what is drawn and like this for each segment untill it comes to the end where only one child should reside and that is the "guess"
 then it comapres it with the answer if its correct whataver changes were made it stays there if not it goes backwards from the answer to the top makinga nessecarry changes
+
+okay lowkey i think i need to changes how the "ai" calculates segments not just add everything to give more details 
