@@ -16,3 +16,9 @@ by doing value of already listed segments - what is drawn and like this for each
 then it comapres it with the answer if its correct whataver changes were made it stays there if not it goes backwards from the answer to the top makinga nessecarry changes
 
 okay lowkey i think i need to changes how the "ai" calculates segments not just add everything to give more details 
+
+The program will learn by each segment having their respective 
+(001)
+(001)
+(001)
+where 1 is * aka the drawing after transforming all segments into this the ai will start comapring with what already exist in the data set and see how big the diffrence is each number that is not identical is 1 point of diffrence . it will be tree type which each segment is gonna have child where each child will be representive with the closest to the diffrence and also the child will be the next segment so its gonna predict the compare prediction if prediction wrong then it will go the left the child losing such a priority in the child of the first segment and like this untill the end where a singular child gonna exist with the predicted asnwer then the program gonna compare the asnwer to the real asnwer and if wrong its gonna go find the answer child and rerange the tree from the last child to the root
